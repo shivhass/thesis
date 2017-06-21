@@ -8,3 +8,6 @@ This is a code segment in markdown
 ```
 
 > This is a quoted passage
+> something else
+
+This is the extra line from 4.38
