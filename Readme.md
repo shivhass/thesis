@@ -1,8 +1,9 @@
-<<<<< HEAD
-
 # This is title I like
+
 ## this is a level 2 heading
+
 ### this is a level 3 heading
+
 etc
 
 ```
